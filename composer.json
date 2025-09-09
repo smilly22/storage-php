@@ -42,7 +42,7 @@
     "require": {
         "guzzlehttp/guzzle": "7.5",
         "vlucas/phpdotenv": "5.5",
-        "bayfrontmedia/php-mime-types": "^2.0",
+        "bayfrontmedia/php-mime-types": "1.1",
         "league/uri": "^6.0"
     }
 }
