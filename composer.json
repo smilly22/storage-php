@@ -1,9 +1,9 @@
 {
-    "name": "supabase/storage-php",
+    "name": "smilly22/storage-php",
     "type": "library",
     "description": "Supabase Storage for PHP",
     "keywords": ["supabase","storage", "storage-php"],
-    "homepage": "https://github.com/supabase-community/storage-php",
+    "homepage": "https://github.com/smilly22/storage-php",
     "autoload": {
         "psr-0": { "": "src/" },
         "psr-4": {
